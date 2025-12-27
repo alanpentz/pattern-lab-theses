@@ -9,6 +9,10 @@ connections:
   - us-china
   - inflation
   - ai-knowledge-work
+signal_balance:
+  supporting: 41
+  challenging: 18
+  evolving: 8
 description: |
   Manufacturing returning home, supply chain rewiring, and what happens
   when 'made in America' becomes strategic necessity rather than marketing.

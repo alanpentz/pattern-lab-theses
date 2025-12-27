@@ -6,6 +6,10 @@ version: "3.0"
 created: 2024-04-01
 updated: 2024-12-25
 connections: []
+signal_balance:
+  supporting: 18
+  challenging: 5
+  evolving: 5
 description: |
   The meta-thesis: how to discover, test, and refine macro patterns.
   The methodology behind the methodology—pattern catalysis as a practice.

@@ -8,6 +8,10 @@ updated: 2024-12-26
 connections:
   - reshoring
   - demographics
+signal_balance:
+  supporting: 52
+  challenging: 24
+  evolving: 13
 description: |
   How AI transforms professional services, what it means for SMB owners
   doing $2-10M, and why the next 3 years will reshape how expertise

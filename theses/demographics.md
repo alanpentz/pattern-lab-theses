@@ -8,6 +8,10 @@ updated: 2024-12-23
 connections:
   - inflation
   - ai-knowledge-work
+signal_balance:
+  supporting: 32
+  challenging: 8
+  evolving: 5
 description: |
   Not just healthcare. Labor markets, consumption patterns, and massive
   capital reallocation toward health, wellness, and longevity services.

@@ -8,6 +8,10 @@ updated: 2024-12-19
 connections:
   - demographics
   - reshoring
+signal_balance:
+  supporting: 28
+  challenging: 18
+  evolving: 6
 description: |
   Structural inflation beyond the cycle. Labor markets, demographics,
   and deglobalization creating persistent price pressures that change

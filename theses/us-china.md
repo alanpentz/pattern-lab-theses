@@ -8,6 +8,10 @@ updated: 2024-12-22
 connections:
   - reshoring
   - ai-knowledge-work
+signal_balance:
+  supporting: 22
+  challenging: 12
+  evolving: 4
 description: |
   Technology decoupling, rare earth dependencies, and how great power
   competition reshapes everything from chip manufacturing to TikTok bans.
