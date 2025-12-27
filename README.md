@@ -1,49 +1,30 @@
 # Pattern Lab Theses
 
-*"I think and I know things."*
-
-This repository contains the public theses from [Pattern Lab](https://alanpentz.com) — a living system for discovering, testing, and refining macro patterns.
-
-## What's Here
-
-Each thesis is a markdown file in `/theses/` that evolves over time. The git history shows how my thinking has changed as new signals emerge.
-
-**Active Theses:**
-- [AI & Knowledge Work](theses/ai-knowledge-work.md) — How AI transforms professional services
-- [Reshoring & Deglobalization](theses/reshoring.md) — Manufacturing coming home
-- [Inflation Pressures](theses/inflation.md) — Structural inflation beyond the cycle
-- [Aging Demographics](theses/demographics.md) — Not just healthcare
-- [US-China Competition](theses/us-china.md) — Technology decoupling
-- [Pattern Lab (Meta)](theses/pattern-lab.md) — The methodology behind the methodology
-
-## How Theses Evolve
-
-1. **Signals** — Evidence that supports, challenges, or evolves a thesis
-2. **Community Input** — Submit signals at [alanpentz.com](https://alanpentz.com)
-3. **Updates** — When enough signals accumulate, the thesis gets updated
-4. **Version History** — Every change is tracked in git
-
-## Contributing
-
-The best way to contribute is to **submit a signal** on the website. Signals are evidence — articles, data, observations — that support or challenge a thesis.
-
-If you want to propose a direct edit to thesis text, you can open a PR. But be warned: I'm opinionated about my own thinking.
+Investment theses with full version history. Each thesis evolves based on signals (evidence) that support, challenge, or refine the core arguments.
 
 ## Structure
 
-```
-theses/
-├── ai-knowledge-work.md    # Each thesis is a single file
-├── reshoring.md
-├── ...
-└── schema/
-    └── thesis-frontmatter.md   # Format documentation
-```
+- `theses/` - Thesis markdown files with YAML frontmatter
+- `signals/` - Signal summaries (JSON) showing evidence for each thesis
+- `schema/` - Documentation of formats
 
-## About Pattern Lab
+## Theses
 
-Pattern Lab is where I test my macro investing theses in public. The goal isn't to be right — it's to be less wrong over time.
+| Thesis | Status | Version |
+|--------|--------|---------|
+| [AI & Knowledge Work](theses/ai-knowledge-work.md) | active | 2.4 |
+| [Reshoring](theses/reshoring.md) | active | 1.8 |
+| [Inflation](theses/inflation.md) | evolving | 2.1 |
+| [Demographics](theses/demographics.md) | active | 1.5 |
+| [US-China](theses/us-china.md) | active | 1.3 |
+| [Pattern Lab](theses/pattern-lab.md) | active | 3.0 |
 
-**Tell me why I'm wrong.**
+## How Theses Evolve
 
-— [Alan Pentz](https://alanpentz.com)
+Signals accumulate from research, news, and observations. When enough signals pile up—especially challenging ones—the thesis updates. Each commit message references the signals that triggered the change.
+
+View evolution history: `git log --oneline theses/<thesis>.md`
+
+## Website
+
+These theses render at [alanpentz.com](https://alanpentz.com) (Pattern Lab)
