@@ -13,13 +13,12 @@ signal_balance:
   challenging: 24
   evolving: 13
 description: |
-  How AI transforms professional services, what it means for SMB owners
-  doing $2-10M, and why the next 3 years will reshape how expertise
-  is packaged and sold.
+  How AI transforms professional services and knowledge work. Why the next
+  3 years will reshape how expertise is packaged, delivered, and sold.
 key_claims:
   - "Within 36 months, unit economics of expertise delivery will invert"
   - "Firms will compete on AI leverage ratios, not senior talent density"
-  - "SMBs at $2-10M will adopt fastest due to pain + capacity to move"
+  - "Early adopters gain compounding advantages as AI capabilities accelerate"
   - "Reshoring wave will generate $40B+ in new professional services demand"
 ---
 
@@ -33,11 +32,11 @@ Professional services firms are facing an inflection point that most don't recog
 
 This isn't about chatbots handling customer service. It's about the fundamental restructuring of how professional knowledge gets created, validated, and delivered. The accounting firm that took 40 hours to prepare a complex return will do it in 4. The law firm that needed a team for due diligence will need one person with the right tools.
 
-## Why SMBs at $2-10M?
+## Who Moves First?
 
-Large enterprises will adopt AI slowly—procurement cycles, compliance requirements, change management overhead. Very small firms lack the volume to justify the investment. But the sweet spot—**SMB professional services firms doing $2-10M in revenue**—have both the pain and the capacity to move fast.
+Large enterprises will adopt AI slowly—procurement cycles, compliance requirements, change management overhead. But smaller, more agile firms have both the pain and the capacity to move fast.
 
-These firms typically have 10-50 employees, established client relationships, and owners who feel the margin squeeze personally. They're also small enough that one or two people can drive transformation without committee approval.
+The firms that transform first share common traits: established client relationships, owners who feel margin pressure personally, and small enough teams that one or two people can drive change without committee approval.
 
 > "The best time to adopt AI was a year ago. The second best time is before your competitors do."
 

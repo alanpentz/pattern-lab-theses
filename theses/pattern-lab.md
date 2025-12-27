@@ -42,11 +42,11 @@ Every signal I track gets processed through three lenses:
 - What's the time horizon for this to matter?
 
 **Layer 3: Owner**
-- What does this mean for SMB professional services owners?
+- What does this mean for business owners and operators?
 - What actions should they take?
 - How does this create or destroy value in their businesses?
 
-Most analysis stops at Layer 1 or 2. The Owner layer is where I try to add unique value—translating macro patterns into operational implications for business owners.
+Most analysis stops at Layer 1 or 2. The Owner layer is where I try to add unique value—translating macro patterns into operational implications for people running businesses.
 
 ## The Four Modalities
 
