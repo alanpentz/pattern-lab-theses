@@ -6,113 +6,115 @@
     {
       "id": "enterprise",
       "name": "Enterprise Executive",
-      "role": "Fortune 500 Chief Strategy Officer",
+      "role": "Fortune 500 Chief Strategy Officer, 50K employees",
       "avatar": "🏢",
       "color": "#3B82F6",
-      "initial_position": "My first reaction is defensive arrogance masking real concern. We've weathered every 'consulting is dead' prediction for decades. But this feels different. The speed of capability improvement and cost collapse in AI isn't following our familiar playbook.",
+      "initial_position": "My first reaction is defensive arrogance masking real concern. We've weathered every 'consulting is dead' prediction for decades—outsourcing, offshoring, automation. But this feels different. The speed of capability improvement and cost collapse isn't following our familiar playbook of gradual enterprise adoption. If even 30% of this thesis proves correct in the stated timeline, our margin structure is in serious trouble.",
       "key_threats": [
-        "Margin compression on commodity expertise delivery—$500/hour work becomes $50/hour",
-        "AI leverage ratio inverts our scale advantage—200 analysts become 3-person AI team",
-        "Knowledge Programmers bypass us entirely—clients can amplify their own people 10x"
+        "Our $500/hour senior consultants bill for work that increasingly looks like 'report generation, data analysis, research synthesis'—exactly what AI does at near-zero marginal cost. Clients will ask why they're paying human rates for machine-executable work within 18 months.",
+        "We spent 40 years building the ability to deploy 200 analysts on a project in 6 weeks. If a 3-person AI-native team delivers equivalent output, our infrastructure becomes overhead, not competitive advantage. Our talent density model assumes clients need armies; AI makes armies obsolete.",
+        "If mid-market clients can hire one Knowledge Programmer who builds agent systems for $200K, why pay us $2M for a team? Our brand was 'access to talent you can't hire.' When clients amplify their own people 10x, that value proposition collapses."
       ],
       "key_moves": [
-        "Aggressively acquire AI-native boutiques at 3-5x revenue multiples",
-        "Restructure pricing toward outcomes, away from billable hours",
-        "Create separate P&L for AI-augmented services, insulated from legacy overhead"
+        "Aggressively acquire AI-native boutiques at 3-5x revenue multiples, then scale their approach through our client base. Poach Knowledge Programmers at $400K+ packages before competitors do. Buy 12-18 months to figure out internal transformation.",
+        "Shift contracts to value-based pricing tied to business results rather than time-and-materials. If AI lets us deliver in 1/10th the hours, billing hourly destroys our margins. Position this as 'innovation in client service' while actually protecting revenue.",
+        "Create a separate P&L for 'AI-augmented services' with different cost structure, talent model, and client expectations. Let it operate like a startup, insulated from our procurement, compliance, and methodology overhead. Cannibalize ourselves before someone else does."
       ],
       "blind_spots": [
-        "Underestimating how fast clients expect AI-speed delivery",
-        "Overconfident that 'strategic work' stays immune to AI"
+        "I'm underestimating how fast clients will expect AI-speed delivery. My mental model assumes a 3-5 year enterprise adoption curve because that's what we saw with cloud, agile, digital transformation. But AI tools don't require IT procurement—knowledge workers just start using them. By the time I realize clients expect 10x faster turnarounds, we'll have lost deals we never knew were at risk.",
+        "I keep telling myself 'AI handles the commodity stuff, we focus on high-value strategy.' But I haven't honestly assessed how much of our 'strategic' work is actually pattern recognition and framework application—exactly what LLMs excel at. The moat around 'judgment and relationships' might be much narrower than I want to believe."
       ],
-      "revised_position": "70% convinced thesis is correct. The real risk isn't that consulting disappears—it's that we become structurally disadvantaged against AI-native competitors. Window to transform is 2-3 years. After that, we're defending market share, not capturing value.",
+      "revised_position": "After working through the threat vectors, I'm 70% convinced the thesis is directionally correct, though the 36-month timeline might be aggressive for large enterprise transformation. The real risk isn't that consulting disappears—it's that we become structurally disadvantaged against AI-native competitors who build different cost structures from day one. If we don't have a functioning AI-augmented delivery model across 30%+ of projects within 18 months, we'll start losing mid-market clients to boutiques and lose margin on enterprise clients who force pricing concessions. The window to transform from inside is 2-3 years. After that, we're defending market share rather than capturing new value.",
       "stance_shift": "defensive_to_urgent"
     },
     {
       "id": "entrepreneur",
       "name": "Solo Entrepreneur",
-      "role": "Former Big Firm Consultant",
+      "role": "Former Big 4 Consultant, 18 months independent",
       "avatar": "🚀",
       "color": "#10B981",
-      "initial_position": "This thesis is why I left. The big firms are dinosaurs watching the meteor. As a solo operator with AI tools, I can deliver what used to require a team of 10. My overhead is near zero, my speed is 10x, and I don't need anyone's permission to adopt new tools.",
+      "initial_position": "This thesis is why I left. The big firms are dinosaurs watching the meteor. I can now deliver in a weekend what used to take my old team three weeks. My overhead is a laptop and API costs. I don't need anyone's permission to adopt new tools, run experiments, or pivot my approach. The arbitrage between what clients pay incumbents and what I can deliver profitably is enormous—and widening.",
       "key_threats": [
-        "Zero-to-one speed on adoption—no procurement, no committees, no legacy systems",
-        "Can price 50% below big firms while making 3x their margins",
-        "Personal brand + AI leverage = unlimited scalability without hiring"
+        "Zero procurement friction—I adopted Claude the day it launched while my old firm is still 'evaluating approved AI tools.' I iterate on my delivery approach weekly. They update methodologies annually. Speed compounds.",
+        "I can price 40% below the big firms and make 3x their effective margins. My cost structure is fundamentally different: no offices, no middle management, no compliance theater, no methodology tax. Every dollar of revenue is mine to deploy.",
+        "I'm building systems, not just doing projects. Every engagement produces reusable agent workflows, prompt libraries, and templates. The second time I solve a problem costs 10% of the first. Big firms charge the same every time because their people don't systematize."
       ],
       "key_moves": [
-        "Build agent systems for my core deliverables in Q1",
-        "Document everything—create 'playbooks' that become my competitive moat",
-        "Target the clients big firms ignore: too small for McKinsey, too complex for DIY"
+        "Build my 'second brain' of agent systems in Q1—not for clients, for myself first. Automate my own research, proposal writing, and deliverable generation. Become my own proof of concept.",
+        "Target the 'donut hole'—clients too complex for generic AI tools but too small for McKinsey to care about. The $500K-$5M project sweet spot where my economics crush theirs. Build reputation in 2-3 verticals, not horizontal generalist positioning.",
+        "Document obsessively. Every workflow, decision tree, edge case. This isn't just process improvement—it's creating training data for my agent systems. The playbook becomes the product."
       ],
       "blind_spots": [
-        "If AI democratizes my edge, every consultant becomes a competitor",
-        "Enterprise clients may still want 'big firm credibility' regardless of capability",
-        "I'm one person—illness, burnout, or distraction kills the business"
+        "If AI truly democratizes expertise delivery, every consultant becomes a competitor. My edge isn't AI itself—it's AI plus domain expertise plus speed of execution. But domain expertise commoditizes over time. I might be building on a melting ice cube.",
+        "Enterprise clients still want 'big firm credibility' for board presentations and regulatory cover. I can deliver better work, but can I deliver the political safety that comes with hiring McKinsey? The irrational premium for brand might persist longer than the rational case for performance.",
+        "I'm one person. Illness, burnout, or a single bad client experience could kill the business. I'm leveraged to my own capacity in ways that scale but also concentrate risk."
       ],
-      "revised_position": "The window is real but narrowing. My advantage isn't just AI—it's AI plus domain expertise plus speed of execution. I have 18-24 months before the big firms figure this out or AI-native startups flood the market. Move fast, build systems, establish reputation before the window closes.",
+      "revised_position": "The window is real but narrower than I initially thought. My advantage isn't just AI fluency—it's the combination of domain expertise, willingness to systematize, and freedom to move fast. But that combination has a shelf life. I have 18-24 months before either the big firms figure this out or AI-native startups flood the market and compete away my margins. The play is to build defensible client relationships and proprietary systems NOW, then decide whether to scale (hire Knowledge Programmers) or sell (to a firm that needs capabilities I've built). Staying solo and comfortable is the highest-risk option because it assumes the arbitrage window stays open indefinitely. It won't.",
       "stance_shift": "optimistic_to_urgent"
     },
     {
       "id": "hedge_fund",
       "name": "Hedge Fund PM",
-      "role": "Skeptical Public Markets Investor",
+      "role": "Public Equities, $3B AUM, Skeptical by training",
       "avatar": "📊",
       "color": "#8B5CF6",
-      "initial_position": "This thesis conflates productivity enhancement (real) with business model disruption (overstated). The 36-month timeline screams recency bias. Token cost decline is real but irrelevant if switching costs and compliance dynamics don't change. I'm more interested in who captures margins than who generates productivity.",
+      "initial_position": "This thesis conflates two separate phenomena: productivity enhancement (real, already happening) and business model disruption (massively overstated). The '36 months' timeline screams recency bias—we're in year 3 of the hype cycle, not year 1 of the transformation. Token cost decline is real but mostly irrelevant if switching costs, compliance requirements, and organizational inertia don't change. I'm more interested in who captures the margin gains than who generates productivity.",
       "key_threats": [
-        "Management consulting (ACN): junior analyst leverage model breaks, 30-40% margin compression",
-        "Legal process outsourcing: document review commoditizes, 40-60% margin compression",
-        "Corporate training (2U, Udemy): loses to personalized AI tutoring"
+        "Management consulting body shops (Accenture's 700K headcount): Junior analyst leverage model breaks when clients run their own analysis. $200/hr staff aug work compresses to $50/hr AI-assisted delivery. Their headcount is a liability, not an asset.",
+        "Legal process outsourcing and discovery services: Document review, due diligence, compliance work—the high-volume pattern-matching work that justified offshore labor arbitrage—gets commoditized. 40-60% margin compression in 18-24 months.",
+        "Corporate training and content platforms (2U, Udemy Business): Synchronous, cohort-based training loses to personalized AI tutoring. 'Netflix for learning' fails when GPT provides better just-in-time answers than pre-recorded courses."
       ],
       "key_moves": [
-        "Long VEEV + EVR: data moats and elite advisory pricing power",
-        "Short ACN vs Long PLTR: body shop model disruption spread trade",
-        "Long vertical SaaS with >70% gross margins and domain-specific data"
+        "Long vertical SaaS with embedded AI and data moats (Veeva, Procore). Companies with proprietary workflow data plus domain context build defensible 'co-pilot' products. Winner-take-most in regulated verticals where switching costs are real.",
+        "Short Accenture vs. Long Palantir spread trade. ACN's body shop model faces 30-40% margin compression as AI reduces need for junior FTEs. PLTR builds the orchestration layer for government/enterprise AI agents—exactly the 'infrastructure, not compute' thesis.",
+        "Long elite boutique advisory (Evercore, Lazard on complex M&A). Paradox of automation: commoditized work gets cheaper, but ultra-complex judgment work gets MORE valuable. $5M deals might use AI; $500M deals with regulatory complexity require senior judgment. Pricing power increases for the top 5%."
       ],
       "blind_spots": [
-        "Market underprices premium human services margin EXPANSION",
-        "VCs overpricing 'AI-native' startups without data moats—shakeout coming"
+        "Market underprices premium human services margin EXPANSION. Everyone thinks AI = deflationary. Wrong for the top tier. Premium human services will RAISE prices as AI handles commodity work. High-end executive coaching, boutique strategy, complex litigation—pricing power increases 20-30% as the market bifurcates. Look at what happened to artisanal markets post-Amazon.",
+        "VCs are overpricing 'AI-native' startups without data moats. 1,000 'Copilot for X' companies, 950 will die when OpenAI/Anthropic release native tools. The only defensibility is proprietary data or regulatory capture. Private market valuations 3-5x too high—shakeout coming."
       ],
-      "revised_position": "Thesis directionally correct but off by 24-36 months on timing. The trade isn't 'AI winners vs laggards'—it's margin expansion in data-moated verticals vs margin compression in labor arbitrage models. The 10x variance accrues to individuals, not employers. That's a headwind for large-cap professional services.",
+      "revised_position": "Thesis is directionally correct but off by 24-36 months on timing and wrong on who captures value. Productivity gains are real and immediate; business model disruption takes 5-7 years, not 3. The trade isn't 'AI winners vs. laggards'—it's margin expansion in data-moated verticals vs. margin compression in labor arbitrage models. The '10x variance in output per person' is real, but it accrues to individuals and small teams—not publicly traded employers. That's a HEADWIND for large-cap professional services, not a tailwind. Position for the barbell: infrastructure plays and elite services long, body shops and commodity knowledge work short.",
       "stance_shift": "skeptical_to_nuanced"
     },
     {
       "id": "private_equity",
       "name": "Private Equity Partner",
-      "role": "$2B Fund Deploying Capital",
+      "role": "$2B Fund, Services & Software Focus",
       "avatar": "💼",
       "color": "#F59E0B",
-      "initial_position": "This thesis inverts our traditional value creation playbook. I'm no longer buying talent density and optimizing processes. I'm buying distribution, relationships, and judgment—then injecting AI leverage to explode margins while reducing headcount.",
+      "initial_position": "This thesis fundamentally changes how I evaluate knowledge-based businesses. I'm no longer buying talent density and optimizing processes. I'm buying distribution, client relationships, and judgment—then injecting AI leverage to explode margins while maintaining or reducing headcount. The 36-month timeline creates urgency: we need to invest NOW in companies positioned to leverage AI, not wait for them to get expensive or disrupted.",
       "key_threats": [
-        "High-cost knowledge shops with commoditized output—margins compress to zero",
-        "Lifestyle businesses resisting systematization—no process = no AI leverage",
-        "Mid-market SaaS getting squeezed by AI-native point solutions"
+        "High-cost knowledge shops with commoditized output are uninvestable. Management consulting firms, basic research providers, vanilla accounting practices—if the deliverable can be templatized, AI compresses margins to zero before we can exit. Pass immediately.",
+        "Lifestyle businesses resisting systematization. Boutique advisory firms where the founder IS the product and refuses to document processes. No process documentation means no AI leverage, which means no scalability. The premium we'd pay for the brand can't be justified.",
+        "Mid-market SaaS already getting squeezed by AI-native point solutions. The 'suite' strategy won't protect them when customers realize they can get 80% of the value from an AI agent at 5% of the subscription cost."
       ],
       "key_moves": [
-        "Target professional services with strong brands but inefficient delivery—3x EBITDA potential",
-        "Roll-up regional firms with AI back-office: revenue flat, costs -40%, EBITDA triples",
-        "Day 1 operational playbook: AI fluency assessment, Knowledge Programmer hiring, fire resistors"
+        "Target professional services with strong brands but inefficient delivery—law firms, specialized consultancies, technical experts with reputation and relationships but labor-intensive delivery models. Value creation: replace middle layers with AI, keep senior judgment and client relationships, 3x EBITDA while actually improving quality.",
+        "Roll-up play with AI back-office: buy 5-10 regional accounting/legal/HR consulting firms, centralize delivery via AI agents, keep local client-facing partners. Revenue stays flat, costs drop 40%, EBITDA triples. Exit to Big 4 or strategic who can't build this internally fast enough.",
+        "Day 1 operational playbook: AI fluency assessment and Knowledge Programmer hiring. Identify which employees can become Knowledge Programmers (domain experts who'll learn AI), hire 1-2 external AI-natives as catalysts. Fire the 'we've always done it this way' middle managers immediately."
       ],
       "blind_spots": [
-        "AI transformation creates 2-3x multiple premium at exit",
-        "Do nothing = 30-50% multiple compression as buyers price in disruption risk"
+        "AI transformation creates 2-3x exit multiple premium—but only with receipts. Strategic buyers pay more for businesses with PROVEN AI leverage vs. peers. You need the evidence: same revenue, 40% fewer people, higher NPS, faster delivery. The story alone isn't enough.",
+        "The 'do nothing' option carries the highest risk. If you own a traditional knowledge business and DON'T transform it, expect 30-50% multiple compression at exit as buyers price in disruption risk. Sitting on the sidelines is actually the most aggressive bet against the thesis."
       ],
-      "revised_position": "Deploy 40% of fund into AI-transformable knowledge businesses over next 18 months. Target companies with proprietary relationships, documentable complexity, and internal champions. The risk isn't that AI fails to deliver. The risk is moving too slowly and watching competitors eat our portfolio from below.",
+      "revised_position": "Deploy 40% of the fund into AI-transformable knowledge businesses over the next 18 months. Target companies with: (1) proprietary client relationships that won't evaporate, (2) process complexity that creates barriers to entry but IS documentable, (3) at least one internal champion who gets it. The risk isn't that AI fails to deliver—every diligence we've done shows 30-50% efficiency gains are achievable in 12-18 months. The risk is moving too slowly and watching competitors or AI-native startups eat our portfolio from below. Specific sectors: regional accounting/audit, technical consulting with proprietary methodologies, market research with unique data access, healthcare revenue cycle management. Pass on: IT staff aug, generic marketing agencies, any business predicated on 'butts in seats' pricing.",
       "stance_shift": "opportunistic_to_aggressive"
     }
   ],
   "synthesis": {
     "consensus": [
-      "The transformation is real, not hype—all four perspectives agree on directional correctness",
-      "Timing is debated: 36 months vs 5-7 years, but all agree the window to act is NOW",
-      "Winners will be determined by AI leverage ratios, not traditional scale advantages",
-      "Knowledge Programmer role is the key unlock—AI-fluent generalists win"
+      "The transformation is real, not hype—all four perspectives agree directionally, despite different starting skepticism levels",
+      "The window to act is NOW. Whether the timeline is 36 months or 5-7 years, the compounding advantage to early movers is significant",
+      "AI leverage ratios will determine competitive position more than traditional scale or talent density",
+      "The Knowledge Programmer role is the key unlock—AI-fluent domain experts who can build and orchestrate agent systems",
+      "Middle-tier players face the worst outcomes: too slow to transform, too small to survive margin compression"
     ],
     "disagreements": [
-      "Timeline: Enterprise sees 2-3 years to transform; Hedge Fund sees 5-7 years for full disruption",
-      "Who wins: Entrepreneur sees individual opportunity; PE sees roll-up consolidation play",
-      "Market pricing: Hedge Fund thinks AI-native startups overvalued; PE aggressively deploying"
+      "Timeline: Enterprise sees 2-3 years to transform; Hedge Fund sees 5-7 years for full disruption; Entrepreneur sees 18-24 month window before competition catches up",
+      "Who captures value: Entrepreneur sees opportunity for individuals; PE sees roll-up consolidation play; Hedge Fund thinks gains accrue to infrastructure, not operators",
+      "Market pricing: Hedge Fund thinks AI-native startups are 3-5x overvalued; PE is aggressively deploying into the thesis; both might be right for different segments",
+      "Big firm survival: Enterprise believes transformation is possible from inside; Hedge Fund and PE are betting against incumbent cost structures"
     ],
-    "key_insight": "The debate reveals a barbell outcome: elite human judgment becomes MORE valuable while commodity knowledge work races to zero. The middle gets squeezed hardest."
+    "key_insight": "The debate reveals a barbell outcome: elite human judgment becomes MORE valuable (pricing power up 20-30%) while commodity knowledge work races to zero. The middle gets squeezed hardest—too expensive to compete with AI, not differentiated enough to command premium pricing. The strategic question isn't whether to adopt AI, but whether you're positioned for the premium end of the barbell or racing to the efficient end. There's no sustainable position in between."
   }
 }
