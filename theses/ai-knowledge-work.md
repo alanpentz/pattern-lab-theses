@@ -2,10 +2,11 @@
 slug: ai-knowledge-work
 title: "AI & Knowledge Work"
 status: active
-version: "2.5"
+version: "3.0"
 created: 2024-08-01
-updated: 2024-12-27
+updated: 2026-01-04
 connections:
+  - ai-rollups
   - reshoring
   - demographics
 signal_balance:
@@ -20,6 +21,7 @@ key_claims:
   - "Organizations will compete on AI leverage ratios, not talent density"
   - "Early adopters gain compounding advantages as AI capabilities accelerate"
   - "The Knowledge Programmer role emerges as the new high-leverage position"
+  - "Context graphs—not just data—are the infrastructure layer that makes AI agents effective"
 ---
 
 # AI & Knowledge Work
@@ -43,6 +45,31 @@ Key characteristics:
 - Comfort with ambiguity and rapid iteration
 
 > "Iron Man suit, not Skynet"—human judgment amplified by AI systems.
+
+## Context Graphs: The Missing Infrastructure
+
+Enterprise software has created trillion-dollar companies by owning canonical data—Salesforce owns customer records, Workday owns employee data, SAP owns transactions. But there's a missing layer: the **context** that actually runs businesses.
+
+> Systems of record store what SHOULD happen. Context graphs store WHY exceptions exist, what precedents apply, and how decisions actually get made.
+
+This context currently lives in Slack threads, email chains, escalation calls, tribal knowledge, and the heads of experienced employees. As AI agents become the interface for knowledge work, they need access to this contextual layer.
+
+| Layer | What It Contains | Who Owns It |
+|-------|------------------|-------------|
+| **Systems of Record** | Canonical data, standard workflows | Salesforce, SAP, Workday |
+| **Context Graphs** | Decision traces, exceptions, precedent | *Emerging opportunity* |
+
+Most enterprise AI implementations fail because they connect agents to systems of record but ignore context. The agent can see the customer's order history but not why they got a special exception last time.
+
+**The Knowledge Programmer's Context Graph work:**
+1. Capturing decision traces from domain experts
+2. Structuring exceptions and precedents
+3. Building cross-system contextual connections
+4. Maintaining the "why" layer as business evolves
+
+This is durable, high-value work—not just prompting. Whoever owns enterprise context graphs has a moat as durable as Salesforce's customer data.
+
+*Context Graphs thesis originated by Foundation Capital (Jaya Gupta & Ashu Garg, December 2025).*
 
 ## Who Moves First?
 

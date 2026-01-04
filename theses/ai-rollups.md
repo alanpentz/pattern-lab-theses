@@ -7,7 +7,6 @@ created: 2026-01-04
 updated: 2026-01-04
 connections:
   - ai-knowledge-work
-  - pattern-lab
 signal_balance:
   supporting: 0
   challenging: 0
