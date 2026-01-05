@@ -8,7 +8,7 @@ updated: 2026-01-04
 connections:
   - ai-rollups
   - reshoring
-  - demographics
+  - inflation
 signal_balance:
   supporting: 52
   challenging: 24
