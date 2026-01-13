@@ -5,6 +5,26 @@ Each entry links to the signals that drove the change.
 
 ---
 
+## v2.0 - 2026-01-12
+
+**Major** | Currency markets validate universal industrial policy adoption
+
+Added new section "Currency Markets Tell the Real Story" based on Russell Clark's analysis showing traditional FX relationships have collapsed. This provides market-based evidence (not just policy analysis) that every major economy is being forced into industrial policy and fiscal expansion.
+
+Key insight: When currency traders stop differentiating between economies based on traditional fundamentals, they're pricing in that all will pursue the same policy path. Only Swiss Franc maintains safe-haven status. Precious metals surge as the only "currency" outside government control.
+
+This strengthens the thesis framing: reshoring isn't just US policy—it's a global phenomenon where the old rules no longer apply.
+
+**Triggering Signals:**
+- Currency relationships collapse as industrial policy becomes universal (Russell Clark)
+- Trade shifted from China to Vietnam/Mexico, not back to US (evolving)
+- Kearny Reshore Index falls 300+ basis points (challenging—but consistent with implementation difficulty, not thesis failure)
+- Manufacturing labor shortage: 500K jobs unfilled (challenging—constrains pace, not direction)
+
+**Signal Balance Update:** +1 supporting, +4 challenging, +1 evolving
+
+---
+
 ## v1.8 - 2024-12-21
 
 **Refinement** | Professional services demand quantified
